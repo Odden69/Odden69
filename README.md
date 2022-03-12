@@ -12,24 +12,25 @@ The last three are from the three hackathons I've joined so far.
 
 There will be more of both of them!  
 
-# My Protfolio Project at Code Institute
+### My Portfolio Project at Code Institute
 Here you find live links to my projects: 
 - My first project, HTML/CSS:
 [Dixie's Doggy Daycare](https://odden69.github.io/dixies_doggy_daycare/)
 - My second project, Vanila JavaScript:
 [Memory Game](https://odden69.github.io/memory-game/)
-- My third project, pure Python(the command line UI was provided by CI):
+- My third project, pure Python (the command line UI was provided by CI):
 [Nonogram Game](https://hj-nonogram-game.herokuapp.com/)
 - Currently working on planning the forth project
 
-# Hackathon Projects
+### Hackathon Projects
 And here to the Hackathon projects where I participated:
 - Code Institute 2021 Retro Gaming Hackathon:
 [Codehog Day](https://github.com/andrewdempsey2018/The-Never-Ending-Coding-Adventure-Codehog-Day)
 - Breast cancer awareness by CI and [IT Labs](https://www.it-labs.com/):
 [Positively Pink](http://positively-pink.herokuapp.com/)
 - Accelerating the future of workforce well-being and mindfulness by CI and [Trust in Soda](https://www.trustinsoda.com/):
-[Clover](https://lexach91.github.io/team-5-january-hackathon/)
+[Clover](https://lexach91.github.io/team-5-january-hackathon/)  
+(Where I proudly can say we made it to second place.)
 
 
 <!--
