@@ -2,7 +2,7 @@
 I'm glad you found your way to my GitHub profile  
 
 My name in Helena Johansson and I'm enjoing life as a software developer to be.  
-I am working my way through a [Full Stack Software Development](https://codeinstitute.net/) course at **Code Institute**, Ireland.  
+I am currently working my way through a [Full Stack Software Development](https://codeinstitute.net/) course at **Code Institute**, Ireland.  
 I live in Lidköping, Sweden, with my family of five, and work as a Mechanical Engineer.  
 So, quite busy splitting my time between work, studies and family, and my two major hobbies, horse back riding and dog training.  
 
