@@ -12,7 +12,7 @@ The last three are from the three hackathons I've joined so far.
 
 There will be more of both of them!  
 
-### My Portfolio Project at Code Institute
+### My Portfolio Projects at Code Institute
 Here you find live links to my projects: 
 - My first project, HTML/CSS:
 [Dixie's Doggy Daycare](https://odden69.github.io/dixies_doggy_daycare/)
