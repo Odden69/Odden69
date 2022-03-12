@@ -1,4 +1,4 @@
-### Hi there!
+# Hi there!
 I'm glad you found your way to my GitHub profile  
 
 My name in Helena Johansson and I'm enjoing life as a software developer to be.  
@@ -12,6 +12,7 @@ The last three are from the three hackathons I've joined so far.
 
 There will be more of both of them!  
 
+# My Protfolio Project at Code Institute
 Here you find live links to my projects: 
 - My first project, HTML/CSS:
 [Dixie's Doggy Daycare](https://odden69.github.io/dixies_doggy_daycare/)
@@ -21,6 +22,7 @@ Here you find live links to my projects:
 [Nonogram Game](https://hj-nonogram-game.herokuapp.com/)
 - Currently working on planning the forth project
 
+# Hackathon Projects
 And here to the Hackathon projects where I participated:
 - Code Institute 2021 Retro Gaming Hackathon:
 [Codehog Day](https://github.com/andrewdempsey2018/The-Never-Ending-Coding-Adventure-Codehog-Day)
