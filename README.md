@@ -20,7 +20,7 @@ Here you find live links to my projects:
 [Memory Game](https://odden69.github.io/memory-game/)
 - My third project, pure Python (the command line UI was provided by CI):
 [Nonogram Game](https://hj-nonogram-game.herokuapp.com/)
-- Currently working on planning the forth project
+- Currently just about to start coding on my forth project
 
 ### Hackathon Projects
 And here to the Hackathon projects where I participated:
