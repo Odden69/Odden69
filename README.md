@@ -15,7 +15,8 @@ There will be more of both of them!
 ### My Portfolio Projects at Code Institute
 Here you find live links to my projects: 
 - My first project, HTML/CSS:
-[Dixie's Doggy Daycare](https://odden69.github.io/dixies_doggy_daycare/)
+[Dixie's Doggy Daycare](https://odden69.github.io/dixies_doggy_daycare/)  
+(Unfortunately I got an CORS error to font awsome, and since I am not allowed to make any changes to my projects until the course is finished I had to make a copy of the repo to fix it. Here is a link to a copy of the deployed site: [Corrected Dixie's Doggy Daycare](https://odden69.github.io/fixing_dixies_doggy_daycare/))
 - My second project, Vanila JavaScript:
 [Memory Game](https://odden69.github.io/memory-game/)
 - My third project, pure Python (the command line UI was provided by CI):
